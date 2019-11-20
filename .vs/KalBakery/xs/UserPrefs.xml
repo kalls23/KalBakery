@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{E319A03A-0A25-40BD-8CAC-0ADE555338FE}|Default">
   <MonoDevelop.Ide.ItemProperties.KalBakery PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="KalBakery/Api/CakesController.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="KalBakery/Migrations/20191031185601_identityadded.cs" Line="1" Column="1" IsPinned="True" />
       <File FileName="KalBakery/libman.json" />
@@ -16,15 +16,14 @@
       <File FileName="KalBakery/Models/CakeRepository.cs" />
       <File FileName="KalBakery/Views/Cake/List.cshtml" />
       <File FileName="KalBakery/Views/Shared/_CakeCard.cshtml" />
-      <File FileName="KalBakery/Api/CakesController.cs" Line="95" Column="1" />
+      <File FileName="KalBakery/Api/CakesController.cs" Line="127" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
           <Node name="KalBakery" expanded="True">
-            <Node name="KalBakery" expanded="True">
-              <Node name="Dependencies" selected="True" />
+            <Node name="KalBakery" expanded="True" selected="True">
               <Node name="Api" expanded="True" />
               <Node name="wwwroot" expanded="True" />
             </Node>
