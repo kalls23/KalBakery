@@ -1,0 +1,7 @@
+﻿@model CakeListViewModel
+
+    <h1>@Model.Title</h1>
+    @foreach(var cake in Model.Cakes)
+    {
+       <partial name="_CakeCard" model="cake"/>
+    }
